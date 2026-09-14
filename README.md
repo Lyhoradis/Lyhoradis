@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 Я Маргарита Lyhoradis
+Аналитик данных. SQL, PostgreSQL, Python, Power BI
 
 <!--
 **Lyhoradis/Lyhoradis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
