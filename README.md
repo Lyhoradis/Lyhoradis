@@ -1,5 +1,5 @@
 ## Hi there 👋 Я Маргарита Lyhoradis
-Аналитик данных. SQL, PostgreSQL, Python, Power BI
+junior аналитик данных
 
 ### Использую в работе
 
