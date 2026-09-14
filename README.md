@@ -1,7 +1,7 @@
 ## Hi there 👋 Я Маргарита Lyhoradis
 Аналитик данных. SQL, PostgreSQL, Python, Power BI
 
-### 🛠️ Мой стек
+###Использую в работе
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15.5-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
