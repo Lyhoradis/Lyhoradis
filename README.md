@@ -1,7 +1,6 @@
 ## Hi there 👋 Я Маргарита Lyhoradis
-## junior аналитик данных
-
-Использую в работе
+junior аналитик данных с чудесным творческим чутьем
+## Использую в работе
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15.5-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-8.4-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
