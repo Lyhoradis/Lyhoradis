@@ -1,6 +1,14 @@
 ## Hi there 👋 Я Маргарита Lyhoradis
 Аналитик данных. SQL, PostgreSQL, Python, Power BI
 
+### 🛠️ Мой стек
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15.5-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-8.4-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) 
 <!--
 **Lyhoradis/Lyhoradis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
